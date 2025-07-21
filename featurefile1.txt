@@ -1,1 +1,1 @@
-This is the first feature file
+This is the first feature file -- conflict.
